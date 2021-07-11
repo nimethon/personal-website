@@ -1,3 +1,48 @@
 body{
     font-family: 'Uchen', serif;
 }
+
+
+p{
+    color: dimgray;
+}
+
+.half{
+    width: 40%;
+    float: left;
+margin-left: 5%;  
+margin-block-end: 8%;  
+margin-right:1%;
+
+}
+
+.half img{
+    width: 80%;
+}
+
+.lol{ 
+    background-image: url("header-bg.png");
+    
+}
+
+.center{
+    padding-top: 10%;
+    padding-bottom: 15%;
+    width: 100%;
+    text-align: center;
+    background-image: url("footer-bg.png");
+    background-origin:padding-box;
+
+}
+
+ .bg{
+     color: ghostwhite;
+     border: 1px solid rgb(240, 8, 116);
+     border-radius: 20px;
+     margin: 5px 600px 5px 600px ;
+     background-color: rgb(240, 8, 116);
+     
+ }
+ #clr{
+    color: ghostwhite;
+ }
