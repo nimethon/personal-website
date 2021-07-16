@@ -6,26 +6,26 @@ body{
 p{
     color: dimgray;
 }
-
+ 
 .half{
-    width: 40%;
-    float: left;
+ width: 40%;
+float: left;
 margin-left: 5%;  
 margin-block-end: 8%;  
 margin-right:1%;
-
 }
 
 .half img{
     width: 80%;
 }
 
-.lol{ 
-    background-image: url("header-bg.png");
-    
+.lol{
+background-image: url("header-bg.png");
+background-origin: padding-box;    
 }
 
 .center{
+
     padding-top: 10%;
     padding-bottom: 15%;
     width: 100%;
@@ -33,7 +33,7 @@ margin-right:1%;
     background-image: url("footer-bg.png");
     background-origin:padding-box;
 
-}
+      }
 
  .bg{
      color: ghostwhite;
